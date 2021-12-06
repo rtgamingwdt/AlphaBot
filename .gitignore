@@ -5,4 +5,5 @@
 build
 
 # Ignore private stuff such as configs
+.vscode
 app/src/main/resources/Config.yml
